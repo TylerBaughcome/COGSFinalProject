@@ -47,6 +47,7 @@ https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
     Note that the approximate runtime of this function is O(u * c), where c reflects the maxiumum
     number of children a node could have as it could not have more children than there are conditions.\
 # Tests and Data Collected
+
 Hypothetical Basketball Team\
   In the file entitiled *Joe.txt* a data table and query can be found. The table specifies the conditions
   and results of a basketball team's last 10 or so games, and the query specifies a certain set of conditions
@@ -63,6 +64,7 @@ Hypothetical Basketball Team\
   representation of what we may call a *good* decision tree.
   Note that, if interested, there are some images showing the structure of certain trees with different nodes
   for this example, images that came from the class for which this project was completed.\
+  
 Euro 2020/2021\
   The ultimate goal of this project was to try and predict the outcome of a large sporting event using this decision
   tree data strucutre and algorithm. As a football fan, I chose to pursue the possible outcome of the 2020/2021 Euros
