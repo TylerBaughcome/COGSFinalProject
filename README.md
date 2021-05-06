@@ -71,7 +71,11 @@ Hypothetical Basketball Team\
   representation of what we may call a *good* decision tree.
   Note that, if interested, there are some images showing the structure of certain trees with different nodes
   for this example, images that came from the class for which this project was completed.\
-  
+
+Euro 2016
+A test on the previous UEFA Euro Competition was completed in similar fashsion to the following process, which will be
+detailed, but only for the group stage to get a benchmark of the accuracy. Out of 36 group stage games, the program successfully predicted 20 of them, a percentage accuracy of 55.6%. It almost always used the root condition, which I found to be the most successful, and for a few games, there was not enough historical data to determine a result, where draws were assumed in such cases. To take a look at the individual results, the *comparison.txt* file in the *Euro 2016* folder details the predicted and actual results of every game in terms of win,loss, or draw. To see the estimated certainty of such outcomes, the *GS_Matchups.txt* file contains the certainty of every outcome for every game.
+
 Euro 2020/2021\
   The ultimate goal of this project was to try and predict the outcome of a large sporting event using this decision
   tree data strucutre and algorithm. As a football fan, I chose to pursue the possible outcome of the 2020/2021 Euros
