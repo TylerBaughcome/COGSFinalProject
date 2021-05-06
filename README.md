@@ -45,7 +45,7 @@ https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
     among the paths for the greatest degree of certainty, every path with that certainty is stored
     until a path with a greater degree of certainty is found. 
     Note that the approximate runtime of this function is O(u * c), where c reflects the maxiumum
-    number of children a node could have as it could not have more children than there are conditions.\
+    number of children a node could have as it could not have more children than there are conditions.
 # Tests and Data Collected
 
 Hypothetical Basketball Team\
