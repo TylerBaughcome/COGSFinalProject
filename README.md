@@ -7,7 +7,7 @@ International football results from 1872 to 2020
 https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
 
 # Description of Decision Tree Data Structure:
-  The decision tree data structure implemented here is a simple non-binary tree.
+  The decision tree data structure implemented here is a simple non-binary tree that uses perfect classification.
   Each decision tree node has children to which it points, and those children propagate until
   no conditions are available or until they exceed a certain degree of certainty with one of
   their outcomes. The memory is allocated and de-allocated explicitly for each node in the tree,
