@@ -24,30 +24,30 @@ https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
   describe the scenario at hand.
 
 # Important Functions
-  Parameters
-   The number of conditions in the data table => c
-   The number of possible outcomes for each line of data => o
-   The number of lines of data in the data table => n
-   The number of unique features in the data set => u
-  build_decision_tree:
+  Parameters\
+   The number of conditions in the data table => c\
+   The number of possible outcomes for each line of data => o\
+   The number of lines of data in the data table => n\
+   The number of unique features in the data set => u\
+  build_decision_tree:\
     This function is a utility for the constructor, where it builds each path in a depth-first
     fashion. The paths are built such that each condition connects to another unique for every 
     addition, and every possible permutation of the conditions should be explored unless a path
     is at some point truncated as a result of having a particularly certain outcome.
-    Note that it has an approximate runtime of around O(u * c^2 * o).
-  get_certainties:
+    Note that it has an approximate runtime of around O(u * c^2 * o).\
+  get_certainties:\
     This function asserts the certainty of the outcomes for a new node by assessing the compounded
     certainty of all the previous conditions on the path. It does so by examining certain indices in 
     the data that are relavant to the path being examined.
-    Note that it has an approximate runtime of O(n * c + o)
-  get_best_paths:
+    Note that it has an approximate runtime of O(n * c + o).\
+  get_best_paths:\
     This function identifies the path(s) with the greatest degree of certainty. If there is a tie
     among the paths for the greatest degree of certainty, every path with that certainty is stored
     until a path with a greater degree of certainty is found. 
     Note that the approximate runtime of this function is O(u * c), where c reflects the maxiumum
-    number of children a node could have as it could not have more children than there are conditions.
+    number of children a node could have as it could not have more children than there are conditions.\
 # Tests and Data Collected
-Hypothetical Basketball Team
+Hypothetical Basketball Team\
   In the file entitiled *Joe.txt* a data table and query can be found. The table specifies the conditions
   and results of a basketball team's last 10 or so games, and the query specifies a certain set of conditions
   that align with teh precedents. With the query given, one can use the decision tree to explore the certainty,
@@ -62,8 +62,8 @@ Hypothetical Basketball Team
   100% of their games, and thus we only require one condition to produce a certain outcome, which is a 
   representation of what we may call a *good* decision tree.
   Note that, if interested, there are some images showing the structure of certain trees with different nodes
-  for this example, images that came from the class for which this project was completed.
-Euro 2020/2021
+  for this example, images that came from the class for which this project was completed.\
+Euro 2020/2021\
   The ultimate goal of this project was to try and predict the outcome of a large sporting event using this decision
   tree data strucutre and algorithm. As a football fan, I chose to pursue the possible outcome of the 2020/2021 Euros
   which will occur in the summer of 2021 after being postponed as a result of the COVID-19 pandemic. Using a massive data
@@ -81,7 +81,7 @@ Euro 2020/2021
   was determined based on the highest certainty of an outcome, and the results were recorded. In the *Euros* folder, the results of all such games
   in the group stage are recorded with the certainties of the outcomes, and a table showing the final results of the group stage are shown as well.
   Next, the matches of the knockout phase were determined using the rules of the competition, and the results from the group stage were added to 
-  the data table. The same process was repeated until a champion was found.
+  the data table. The same process was repeated until a champion was found.\
   A final note on this process is in the variance in the root condition used for each match. Sometimes, no meaningful data was accrued that superceded
   the minumum number of occurences for the outcomes (that is "min_occurences" = 3), in which case the root condition was changed. Always starting with
   Home/Away, I would then proceed to Tournament Competition? and Neutral Venue? until a meaningful result was found. If no meaningul result was found, as
@@ -95,7 +95,7 @@ allow for more accurate conclusions, but it is particularly difficult to collect
 a finite number of features that occur. Yes, begin home or away, the time at which an event occurs, and other factors are plain, but the mental states 
 of the players, their leadership and communications skills, and more are not things that can effectively be described so categorically. Such items, particularly
 with regard to sports, lie on a spectrum and are subjective, and with a decision tree, those features that "lie on a spectrum" technically have an infinite 
-number of features, and thus a decision tree is not always the optimal way to determine such outcomes, especially in sports. 
+number of features, and thus a decision tree is not always the optimal way to determine such outcomes, especially in sports.\
 Furthermore, in terms of runtime and memory usage on a compute, it becomes evident that smaller decision trees are better. For instance, in the hypothetical
 basketball example, we saw how sometimes it only takes one condition to find a quite certain and sufficiently numerous outcome, but identifying the best tree
 then becomes a recursive process. 
