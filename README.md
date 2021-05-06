@@ -48,6 +48,13 @@ https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
     number of children a node could have as it could not have more children than there are conditions.
 # Tests and Data Collected
 
+Simple Golf
+  In the Simple Golf folder, you can find a simple example with a set of conditions on previous days.
+  On a given day with certain conditions, the program will offer a decision, that is to play or not to
+  play golf in this case. Several sample queries with the data can be found, and other queries can be made
+  as well. The root condition and other factors within the decision tree can be changed as well, just as it can
+  be for all the examples.
+
 Hypothetical Basketball Team\
   In the file entitiled *Joe.txt* a data table and query can be found. The table specifies the conditions
   and results of a basketball team's last 10 or so games, and the query specifies a certain set of conditions
