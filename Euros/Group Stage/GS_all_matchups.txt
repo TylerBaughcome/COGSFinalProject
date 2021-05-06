@@ -1,0 +1,131 @@
+Italy Turkey Yes FALSE
+.6 certainty for outcome Draw
+Outcome: Draw
+
+Wales Switzerland Yes TRUE
+No significant results => Draw
+
+Denmark Finland Yes FALSE
+.7 certainty for a Denmark Win
+Outcome: Denmark wins
+
+Russia Belgium Yes FALSE
+.75 certainty for a Russia Loss
+Outcome: Belgium wins
+
+England Croatia Yes FALSE
+.6 certainty for a England Win
+Outcome: England wins
+
+Austria North_Macedonia Yes TRUE
+No significant results => Draw
+
+Netherlands Ukraine Yes FALSE
+No signficant results => Draw
+
+Scotland Czech_Republic Yes False
+No significant results => Draw 
+
+Poland Slovakia Yes TRUE
+No significant results => Draw 
+
+Spain Sweden Yes FALSE
+.8 certainty for a Spain Win
+Outcome: Spain wins
+
+Hungary Portugal Yes FALSE
+.75 certainty for a Hungary Loss
+Outcome: Portugal wins
+
+Germany France Yes FALSE
+.33 certainty for a Draw
+Outcome: Draw
+
+Russia Finland Yes FALSE
+.67 certainty for a Russia Win
+Outcome: Russia wins
+
+Turkey Wales Yes TRUE
+No significant results => Draw 
+
+Italy Switzerland Yes False
+.714 certainty for a Italy Win
+Outcome: Italy Wins
+
+Ukraine North_Macedonia Yes TRUE
+No significant results => Draw 
+
+Denmark Belgium Yes FALSE
+.571 certainty for a Denmark Win
+Outcome: Denmark wins
+
+Netherlands Austria Yes FALSE
+.6 certainty of Netherlands Win
+Outcome: Netherlands wins
+
+Sweden Slovakia Yes TRUE
+No significant results => Draw 
+
+Croatia Czech_Republic Yes TRUE
+No significant results => Draw 
+
+England Scotland Yes FALSE
+.769 certainty for an England win
+Outcome: England wins
+
+Hungary France Yes FALSE
+.667 certainty for a Hungary Loss
+Outcome: France wins
+
+Germany Portugal Yes FALSE
+.571 certainty for a Germany win
+Outcome: Germany wins
+
+Spain Poland Yes FALSE
+.667 certainty for a Spain win
+Outcome: Spain wins
+
+Italy Wales Yes FALSE
+.667 certainty for a Italy win
+Outcome: Italy wins
+
+Switzerland Turkey Yes TRUE
+No significant results => Draw 
+
+Netherlands North_Macedonia Yes FALSE
+No significant results => Draw 
+
+Ukraine Austria Yes TRUE
+No significant results => Draw 
+
+Denmark Russia Yes FALSE
+.5 certainty for a Denmark Loss
+Outcome: Russia wins
+
+England Czech_Republic Yes FALSE
+.667 certainty for a England Win
+Outcome: England wins
+
+Scotland Croatia Yes FALSE
+.667 certainty for a Draw
+Outcome: Draw
+
+Spain Slovakia Yes FALSE
+1.0 certainty for a Spain Win
+Outcome: Spain wins
+
+Sweden Poland Yes TRUE
+No significant results => Draw 
+
+Germany Hungary Yes FALSE
+.4 certainty for a Germany Loss or Win = Draw
+Outcome: Draw
+
+Portugal France Yes TRUE
+No significant results => Draw 
+*Also due to neutral location
+Otherwise, the home team basically wins
+
+Finland Belgium
+No significant results => Draw 
+

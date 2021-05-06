@@ -1,0 +1,26 @@
+
+
+Where When FredStarts Joeoffense Joedefense OppC Outcome 
+quit
+Home 7pm Yes Center ForwardD Tall Won
+Home 7pm Yes Forward CenterD Short Won
+Away 7pm Yes Forward ForwardD Tall Won
+Home 5pm No Forward CenterD Tall Lost
+Away 9pm Yes Forward ForwardD Short Lost
+Away 7pm No Center ForwardD Tall Won
+Home 7pm No Forward CenterD Tall Lost
+Home 7pm Yes Center CenterD Tall Won
+Away 7pm Yes Center CenterD Short Won
+Home 9pm No Forward CenterD Short Lost
+Away 7pm No Forward ForwardD Short Lost
+Away 5pm No Center ForwardD Tall Won
+Home 7pm No Center CenterD Tall Lost
+Home 9pm No Forward ForwardD Short Lost
+Away 9pm Yes Center ForwardD Short Lost
+Home 7pm Yes Center CenterD Short Won
+Home 7pm Yes Center ForwardD Short Won
+Home 5pm No Forward CenterD Short Lost
+Home 7pm Yes Center ForwardD Tall Won
+Away 5pm No Center CenterD Tall Lost 
+query
+Away 9pm No Center ForwardD Tall

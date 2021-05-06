@@ -1,0 +1,73 @@
+Round of 16
+
+Denmark Switzerland Yes TRUE
+No significant results => Denmark has better record in last 50 years
+Outcome: Denmark Wins
+
+Italy Ukraine Yes TRUE
+No significant results => Italy has better record in last 50 years
+Outcome: Italy Wins
+
+France Belgium Yes TRUE
+*With root condition of neutral location
+.75 certainty of France Win
+Outcome: France wins
+
+Croatia Poland Yes TRUE
+No significant results => Croatia has better record in last 50 years
+Outcome: Croatia Wins
+
+Spain North_Macedonia Yes TRUE
+No significant results => Spain has better record in last 50 years
+Outcome: Spain Wins
+
+England Germany Yes FALSE
+.583 certainty of an England Loss at Home
+Outcome: Germany Wins
+(similar result for neutral location as root condition)
+
+Netherlands Portugal Yes TRUE
+.5 certainty of Netherlands Loss with root condition = neutral location
+Outcome: Portugal Wins
+
+Turkey Russia Yes TRUE
+No significant results => Russia has better record in last 50 years
+Outcome: Russia Wins
+
+Quarterfinals
+
+Denmark Italy Yes TRUE
+.667 certainty of Denmark Loss with root condition = neutral venue
+Outcome: Italy Wins
+
+France Croatia Yes TRUE
+No significant results => France has better record in last 50 years
+Outcome: France Wins
+
+Spain Germany Yes TRUE
+.75 certainty of Spain win with root condition = neutral venue
+Outcome: Spain Wins
+
+Portugal Russia Yes TRUE
+No significant results => Portugal has better record in last 50 years
+Outcome: Portugal Wins
+
+Semi-Finals
+*Note that the root condition was changed to the neutral venue to procure
+these results, where otherwise it was mainly home and away
+Italy France Yes TRUE
+.4 certainty of Italy Loss
+Outcome: France Wins
+
+Spain Portugal Yes TRUE
+.75 certainty of Draw => Coin Flip
+Outcome: Portugal Wins
+
+Final
+France Portugal Yes TRUE
+For root condition Neutral Location: .667 certainty of France Win
+For root condition Home/Away: No conclusive results.
+For root condition the match begin a tournament competition: .571 certainty of France Win
+
+Euro 2021 Decision Tree Champion: France
+
