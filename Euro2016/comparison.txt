@@ -1,0 +1,150 @@
+Euro 2016 Group Stage Predicted vs. Actual
+
+France Romania
+Predicted: Draw
+Actual: France Wins
+
+Albania Switzerland Yes TRUE
+Predicted: Switzerland Wins
+Actual: Switzerland Wins
+
+Wales Slovakia Yes TRUE
+Predicted: Wales Wins
+Actual: Wales Wins
+
+England Russia Yes TRUE
+Predicted: Russia Wins
+Actual: Draw
+
+Turkey Croatia Yes TRUE
+Predicted: Draw
+Actual: Croatia Wins
+
+Poland Northern_Ireland Yes TRUE
+Predicted: Poland Wins
+Actual: Poland Wins
+
+Germany Ukraine Yes TRUE
+Predicted: Germany Wins
+Actual: Germany Wins
+
+Spain Czech_Republic Yes TRUE
+Predicted: Spain Wins
+Actual: Spain Wins
+
+Ireland Sweden Yes TRUE
+Predicted: Draw
+Actual: Draw
+
+Belgium Italy Yes TRUE
+Predicted: Draw
+Actual: Italy Wins
+
+Austria Hungary Yes TRUE
+Predicted: Hungary Wins
+Actual: Hungary Wins
+
+Portugal Iceland Yes TRUE
+Predicted: Portugal Wins
+Actual: Draw
+
+Russia Slovakia Yes TRUE
+Predicted: Slovakia Wins
+Actual: Slovakia Wins
+
+Romania Switzerland Yes TRUE
+Predicted: Romania Wins
+Actual: Draw
+
+France Albania Yes FALSE
+1.0 certainty of France Win with root condition Tournament Competition
+Predicted: France Wins
+Actual: France Wins
+
+England Wales Yes TRUE
+Predicted: England Wins
+Actual: England Wins
+
+Ukraine Northern_Ireland Yes TRUE
+Predicted: Draw
+Actual: Norther_Ireland Wins
+
+Germany Poland Yes TRUE
+Predicted: Germany Wins
+Acutal: Draw
+
+Italy Sweden Yes TRUE
+Predicted: Italy Wins
+Actual: Italy Wins
+
+Czech_Republic Croatia Yes TRUE
+Predicted: Draw
+Actual: Draw
+
+Spain Turkey Yes TRUE
+Predicted: Spain Wins
+Actual: Spain Wins
+
+Belgium Ireland Yes TRUE
+Predicted: Draw
+Actual: Belgium Wins
+
+Iceland Hungary Yes TRUE
+Predicted: Hungary Wins
+Actual: Draw
+
+Portugal Austria Yes TRUE
+Predicted: Draw
+Actual: Draw
+
+Romania Albania Yes TRUE
+Predicted: Romania Wins
+Actual: Albanaia Wins
+
+France Switzerland Yes FALSE
+Predicted: Draw
+Actual: Draw
+
+Slovakia England Yes TRUE
+Predicted: England Wins
+Actual: Draw
+
+Russia Wales Yes TRUE
+Predicted: Russia Wins
+Actual: Wales Wins
+
+Northern_Ireland Germany Yes TRUE
+Predicted: Germany Wins
+Actual: Germany Wins
+
+Ukraine Poland Yes TRUE
+Predicted: Poland Wins
+Actual: Poland Wins
+
+Croatia Spain Yes TRUE
+Predicted: Spain Wins
+Actual: Croatia Wins
+
+Turkey Czech_Republic Yes TRUE
+Predicted: Turkey Wins
+Actual: Turkey Wins
+
+Iceland Austria Yes TRUE
+Predicted: Draw
+Actual: Iceland Wins
+
+Hungary Portugal Yes TRUE
+Predicted: Portugal Wins
+Actual: Draw
+
+Sweden Belgium Yes TRUE
+Predicted: Draw
+Actual: Belgium Wins
+
+Italy Ireland Yes TRUE
+Predicted: Draw
+Actual: Ireland Wins
+
+Percent Correct: 
+20/36 Games Predicted Correctly => 55.6%
+

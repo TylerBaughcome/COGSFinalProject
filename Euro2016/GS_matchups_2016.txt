@@ -1,0 +1,146 @@
+Euro 2016 Group Stage Matchups
+
+France Romania Yes FALSE
+.556 certainty of Draw with root condition Tournament Competition
+Outcome: Draw
+
+Albania Switzerland Yes TRUE
+.8 certainty of Albania Loss with root condition Tournament Competition
+Outcome: Switzerland Wins
+
+Wales Slovakia Yes TRUE
+.6 certainty of Wales Win with root condition Tournament Competition
+Outcome: Wales Wins
+
+England Russia Yes TRUE
+.6 certainty of England Loss with root condition Tournament Competition
+Outcome: Russia Wins
+
+Turkey Croatia Yes TRUE
+.5 certainty of Draw with root condition Tournament Competition
+Outcome: Draw
+
+Poland Northern_Ireland Yes TRUE
+.6 certainty of Poland Win with root condition Tournament Competition
+Outcome: Poland Wins
+
+Germany Ukraine Yes TRUE
+.714 certainty of Germany Win with root condition Tournament Competition
+Outcome: Germany Wins
+
+Spain Czech_Republic Yes TRUE
+.8 certainty of Spain Win with root condition Tournament Competition
+Outcome: Spain Wins
+
+Ireland Sweden Yes TRUE
+No significant results from data
+Outcome: Draw
+
+Belgium Italy Yes TRUE
+.4 certainty of Draw with root condition Tournament Competition
+Outcome: Draw
+
+Austria Hungary Yes TRUE
+.571 certainty of Austria loss with root condition Tournament Competition
+Outcome: Hungary Wins
+
+Portugal Iceland Yes TRUE
+.667 certainty of Portugal Win with root condition Tournament Competition
+Outcome: Portugal Wins
+
+Russia Slovakia Yes TRUE
+.5 certainty of Russia Loss with root condition Tournament Competition
+Outcome: Slovakia Wins
+
+Romania Switzerland Yes TRUE
+.4 certainty of Romania Win with root condition Tournament Competition
+Outcome: Romania Wins
+
+France Albania Yes FALSE
+1.0 certainty of France Win with root condition Tournament Competition
+Outcome: France Wins
+
+England Wales Yes TRUE
+.64 certainty of England Win with root condition Tournament Competition
+Outcome: England Wins
+
+Ukraine Northern_Ireland Yes TRUE
+.4 certainty of Draw with root condition Tournament Competition
+Outcome: Draw
+
+Germany Poland Yes TRUE
+.556 certainty of Germany Win with root condition Tournament Competition
+Outcome: Germany Wins
+
+Italy Sweden Yes TRUE
+.417 certainty of Italy Win with root condition Tournament Competition
+Outcome: Italy Wins
+
+Czech_Republic Croatia Yes TRUE
+1.0 certainty of Draw with root condition Tournament Competition
+Outcome: Draw
+
+Spain Turkey Yes TRUE
+.8 certainty of Spain Win with root condition Tournament Competition
+Outcome: Spain Wins
+
+Belgium Ireland Yes TRUE
+No significant results from data
+Outcome: Draw
+
+Iceland Hungary Yes TRUE
+.429 certainty of Iceland Loss with root condition Tournament Competition
+Outcome: Hungary Wins
+
+Portugal Austria Yes TRUE
+.4 certainty of Draw with root condition Tournament Competition
+Outcome: Draw
+
+Romania Albania Yes TRUE
+.667 certainty of Romania Win with root condition Tournament Competition
+Outcome: Romania Wins
+
+France Switzerland Yes FALSE
+.571 certainty of Draw with root condition Tournament Competition
+Outcome: Draw
+
+Slovakia England Yes TRUE
+.8 certainty of Slovakia Loss with root condition Tournament Competition
+Outcome: England Wins
+
+Russia Wales Yes TRUE
+.571 certainty of Russia Win with root condition Tournament Competition
+Outcome: Russia Wins
+
+Northern_Ireland Germany Yes TRUE
+.8 certainty of Northern_Ireland Loss with root condition Tournament Competition
+Outcome: Germany Wins
+
+Ukraine Poland Yes TRUE
+.4 certainty of Ukraine Loss with root condition Tournament Competition
+Outcome: Poland Wins
+
+Croatia Spain Yes TRUE
+.5 certainty of Croatia Loss with root condition Tournament Competition
+Outcome: Spain Wins
+
+Turkey Czech_Republic Yes TRUE
+.75 certainty of Turkey Win with root condition Tournament Competition
+Outcome: Turkey Wins
+
+Iceland Austria Yes TRUE
+.333 certainty of Draw with root condition Tournament Competition
+Outcome: Draw
+
+Hungary Portugal Yes TRUE
+.889 certainty of Hungary Loss with root condition Tournament Competition
+Outcome: Portugal Wins
+
+Sweden Belgium Yes TRUE
+No significant results from data
+Outcome: Draw
+
+Italy Ireland Yes TRUE
+No significant results from data
+Outcome: Draw
+
