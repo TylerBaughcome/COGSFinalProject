@@ -1,4 +1,4 @@
-# COGSFinalProject
+# Decision Trees for Sport
 Decision Tree Programs for Sport Analysis\
 Author: Tyler Baughcome
 
